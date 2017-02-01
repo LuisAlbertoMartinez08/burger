@@ -1,0 +1,3 @@
+INSERT INTO `burgers_db`.`burgers` (`id`, `burger_name`, `devoured`, `order_date`) VALUES ('1', 'bacon chesse', '1', '2017-01-10 00:00:00');
+INSERT INTO `burgers_db`.`burgers` (`id`, `burger_name`, `devoured`, `order_date`) VALUES ('2', 'veggie deluxe', '0', '2017-01-13 00:00:00');
+INSERT INTO `burgers_db`.`burgers` (`id`, `burger_name`, `devoured`, `order_date`) VALUES ('3', 'double trouble', '1', '2017-01-19 00:00:00');
